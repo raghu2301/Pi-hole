@@ -49,7 +49,7 @@ curl -sSL https://install.pi-hole.net | bash
 
 Alternative 1: Clone our repository and run
 ```
-git clone --depth 1 https://github.com/pi-hole/pi-hole.git Pi-hole
+git clone --depth 1 https://github.com/pi-hole/pi-hole.git
 cd "Pi-hole/automated install/"
 sudo bash basic-install.sh
 ```
